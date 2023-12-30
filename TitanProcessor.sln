@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitanProcessor", "TitanProcessor.csproj", "{90D26B32-F4E2-4AE8-80B1-6B1EAD73C460}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoldenvaleDAL", "..\SqlCrudCreator\GoldenvaleDAL\GoldenvaleDAL.csproj", "{4094CB3E-37CF-4218-ADD8-85DCFFF54E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D26B32-F4E2-4AE8-80B1-6B1EAD73C460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D26B32-F4E2-4AE8-80B1-6B1EAD73C460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D26B32-F4E2-4AE8-80B1-6B1EAD73C460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D26B32-F4E2-4AE8-80B1-6B1EAD73C460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4094CB3E-37CF-4218-ADD8-85DCFFF54E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4094CB3E-37CF-4218-ADD8-85DCFFF54E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4094CB3E-37CF-4218-ADD8-85DCFFF54E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4094CB3E-37CF-4218-ADD8-85DCFFF54E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {722DC828-CB20-45B3-876B-3B4DF4903553}
+	EndGlobalSection
+EndGlobal
